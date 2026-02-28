@@ -1,0 +1,1 @@
+# HP-Z440-front-panel-connector-pinout
