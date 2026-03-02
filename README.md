@@ -18,6 +18,7 @@
 - Pin 5: Power switch +
 - Pin 7: Power switch −
 - Shorting pins 5 and 7 momentarily will power the system on, just like a standard ATX power switch.
+- NOTE: This works with a paperclip. It doesn't work with the JetKVM. The JetKVM implementation may be polarity sensitive. I'll update when I test further.
 
 #### Reset Button - may not be supported
 - Pin ?: Reset Button +
